@@ -1,6 +1,6 @@
-### Hi there, I'm Rachel - aka [rcsweeny22] 👋
+## Hi there, I'm Rachel - aka [rcsweeny22] 👋
 
-## I am a student at the University of Notre Dame.
+### I am a student at the University of Notre Dame.
 
 - 🔭  I just added a minor in Data Science. 
 - 🌱  I am currently working on my first portfolio.
