@@ -9,9 +9,9 @@
 
 - <h3>Things I code with</h3>
 <p>
-  <img alt="Google Colab" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="RStudio" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-45b8d8?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python&logoColor=white" /> 
+  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-46a2f1?style=flat-square&logo=rstudio&logoColor=white" />
 
 - 📫 How to reach me: rcsweeny22@gmail.com
 <!--
