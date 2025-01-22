@@ -7,7 +7,7 @@
 - 🥅  Goals for 2025: I want to become proficient in Excel, SQL, and Tableau. 
 - ⚡ Fun fact: I love playing volleyball and going on road trips.
 
-### Things I code with</h3>
+### Things I code with:</h3>
 <p>
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-45b8d8?style=flat-square&logo=googlecolab&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python&logoColor=white" /> 
