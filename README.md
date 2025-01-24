@@ -16,6 +16,9 @@
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-2088FF?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
+### Check out some of my work!
+- [Repositories](https://github.com/rcsweeny22?tab=repositories)
+- [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)
 <!--
 **rcsweeny22/rcsweeny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
