@@ -12,7 +12,8 @@
 <p>
   <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-45b8d8?style=flat-square&logo=googlecolab&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python&logoColor=white" /> 
-  <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-46a2f1?style=flat-square&logo=rstudio&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-46a2f1?style=flat-square&logo=r&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-46a2f1?style=flat-square&logo=pandas&logoColor=white" />
 
 <!--
 **rcsweeny22/rcsweeny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
