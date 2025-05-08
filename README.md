@@ -19,6 +19,8 @@
 ### Check out some of my work!
 - [Repositories](https://github.com/rcsweeny22?tab=repositories)
 - [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)
+>[!IMPORTANT]
+>**Technical skills showcased in my Data Science Portfolio**: [EDA](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app), Pandas, Streamlit, Python, [TidyData principles](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project), Seaborn, Supervised Machine Learning, [KNN](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/), SKLearn, Unsupervised Machine Learning, and [K-Means Clustering](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/).
 <!--
 **rcsweeny22/rcsweeny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
