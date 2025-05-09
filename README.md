@@ -19,9 +19,13 @@
 ### Check out some of my work!
 - [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)
   - [Basic Streamlit App](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app)
+    - I used a Seaborn dataset to create a basic app on Streamlit where users can filter the data in different ways.
   - [TidyData Project](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project)
+    - I took a messy dataset about the 2008 Olympics and cleaned up the rows, columns, and variables.
   - [KNN App](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/)
+    - I created a public app on Streamlit where users can explore K-Nearest Neighbors.
   - [K-Means App](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/)
+    - I made another public application on Streamlit where users can learn about K-Means Clustering.
 >[!IMPORTANT]
 >**Technical skills showcased in my Data Science Portfolio**: [EDA](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app), Pandas, Streamlit, Python, [TidyData principles](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project), Seaborn, Supervised Machine Learning, [KNN](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/), SKLearn, Unsupervised Machine Learning, and [K-Means Clustering](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/).
 <!--
