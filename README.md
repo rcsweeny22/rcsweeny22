@@ -17,8 +17,11 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
 ### Check out some of my work!
-- [Repositories](https://github.com/rcsweeny22?tab=repositories)
 - [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)
+  - [Basic Streamlit App](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app)
+  - [TidyData Project](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project)
+  - [KNN App](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/)
+  - [K-Means App](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/)
 >[!IMPORTANT]
 >**Technical skills showcased in my Data Science Portfolio**: [EDA](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app), Pandas, Streamlit, Python, [TidyData principles](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project), Seaborn, Supervised Machine Learning, [KNN](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/), SKLearn, Unsupervised Machine Learning, and [K-Means Clustering](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/).
 <!--
