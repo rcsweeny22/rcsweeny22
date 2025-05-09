@@ -5,7 +5,6 @@
 - 🔭  I am studying Theology with a minor in Data Science. 
 - 🌱  I am currently working on my first data science portfolio.
 - 🥅  Goals for 2025 spring semester: I want to become proficient in Excel, SQL, and Tableau. 
-- ⚡ Fun fact: I love playing volleyball and going on road trips.
 - 📫 How to reach me: rcsweeny22@gmail.com
 
 ### Things I code with:</h3>
