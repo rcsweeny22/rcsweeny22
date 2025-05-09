@@ -17,7 +17,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
 ### Check out some of my work!
-- [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)
+**- [Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)**
   - [Basic Streamlit App](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app)
     - I used a Seaborn dataset to create a basic app on Streamlit where users can filter the data in different ways.
   - [TidyData Project](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project)
