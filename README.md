@@ -15,6 +15,9 @@
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-2088FF?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 
+  >[!IMPORTANT]
+>**Technical skills**: [EDA](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app), Pandas, Streamlit, Python, [TidyData principles](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project), Seaborn, Supervised Machine Learning, [KNN](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/), SKLearn, Unsupervised Machine Learning, and [K-Means Clustering](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/).
+
 ### Check out some of my work!
 **[Data Science Portfolio](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio)**
   - [Basic Streamlit App](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app)
@@ -25,8 +28,7 @@
     - I created a public app on Streamlit where users can explore K-Nearest Neighbors.
   - [K-Means App](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/)
     - I made another public application on Streamlit where users can learn about K-Means Clustering.
->[!IMPORTANT]
->**Technical skills showcased in my Data Science Portfolio**: [EDA](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/basic-streamlit-app), Pandas, Streamlit, Python, [TidyData principles](https://github.com/rcsweeny22/Sweeny-Data-Science-Portfolio/tree/main/TidyData-Project), Seaborn, Supervised Machine Learning, [KNN](https://sweeny-data-science-portfolio-cu5pwrtpvbf7habq472ote.streamlit.app/), SKLearn, Unsupervised Machine Learning, and [K-Means Clustering](https://sweeny-data-science-portfolio-9fedggdxehs36qbisvcsag.streamlit.app/).
+
 <!--
 **rcsweeny22/rcsweeny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
